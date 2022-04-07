@@ -89,5 +89,5 @@ permalink: /resume/
 
 # Publications #
 
-- Bloemen, E. M., Rosen, T., Schiroo, J. A., Clark, S., Mulcare, M. R., Stern, M. E., Mysliwiec, R., Flomenbaum, N. E., Lachs M. S., Hargarten, S. (2016, April 13). Photographing Injuries in the Acute Care Setting: Development and Evaluation of a Standardized Protocol for Research, Forensics, and Clinical Practice. Academic Emergency Medicine, 23(5), 653-659. doi:10.1111/acem.12955
-- Weekes, S. L., Barker, B., Bober, S., Cisneros, K., Cline, J., Thompson, A., Hlatkey, L., Hahnfeldt, P., Enderling, H. (2014, May 20). A Multicompartment Mathematical Model of Cancer Stem Cell-Driven Tumor Growth Dynamics. Bulletin of Mathematical Biology, 76(7), 1762-1782. doi:10.1007/s11538-014-9976-0
+- Bloemen, E. M., Rosen, T., Schiroo, J. A., Clark, S., Mulcare, M. R., Stern, M. E., Mysliwiec, R., Flomenbaum, N. E., Lachs M. S., Hargarten, S. (2016, April 13). [Photographing Injuries in the Acute Care Setting: Development and Evaluation of a Standardized Protocol for Research, Forensics, and Clinical Practice](https://pubmed.ncbi.nlm.nih.gov/26932497/){:target="_blank"}. Academic Emergency Medicine, 23(5), 653-659. doi:10.1111/acem.12955
+- Weekes, S. L., Barker, B., Bober, S., Cisneros, K., Cline, J., Thompson, A., Hlatkey, L., Hahnfeldt, P., Enderling, H. (2014, May 20). [A Multicompartment Mathematical Model of Cancer Stem Cell-Driven Tumor Growth Dynamics](https://pubmed.ncbi.nlm.nih.gov/24840956/){:target="_blank"}. Bulletin of Mathematical Biology, 76(7), 1762-1782. doi:10.1007/s11538-014-9976-0

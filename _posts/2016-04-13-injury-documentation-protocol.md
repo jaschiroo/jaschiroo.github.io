@@ -55,4 +55,4 @@ Diagram for photographing the back of the upper arm
 
 Diagram for photographing the elbow
 
-The final product of this project is a published paper in Academic Emergency Medicine, [available here](https://onlinelibrary.wiley.com/doi/10.1111/acem.12955){:target="_blank"}.
+The final product of this project is a published paper in Academic Emergency Medicine, [available here](https://pubmed.ncbi.nlm.nih.gov/26932497/){:target="_blank"}.
