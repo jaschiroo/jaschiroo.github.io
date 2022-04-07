@@ -12,11 +12,11 @@ After making the moon icon in the tutorial, I decided to try my hand at an icon 
 of the LLC that "owns" these endeavours is "Siphono", after siphonophores, which are colonies of organisms
 that appear to be a single organism. The most well-known is the Portuguese Man o' War, which isn't a jellyfish, despite all appearances. I searched around a bit for inspiration, and the Monterey Bay Aquarium Research Institute posted this [image of a rare jelly, Vampyrocrossota childressi](https://www.instagram.com/p/BoAJCIhFgmF/) (I know, it isn't a siphonophore, but I didn't realize that until later!) that got me inspired! So I started brainstorming and sketching out some ideas. Here are the first two.
 
-<img src="/jaschiroo/images/sprints/notify/icon-1.svg"
+<img src="/images/sprints/notify/icon-1.svg"
      alt="Icon idea 1"
      style="max-width:90%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/notify/icon-2.svg"
+<img src="/images/sprints/notify/icon-2.svg"
     alt="Icon idea 2"
     style="max-width:90%;height:auto;border:1px solid black;" />
 
@@ -24,13 +24,13 @@ There were some things I liked about each of them, and some that I didn't. For e
 
 I really felt that the design was too complicated to be conveyed properly at a smaller size, so I wanted to try keeping the feeling of the image the same, particularly the glow, but more adaptable to a range of sizes. I iterated on both icons, ending up with these ideas.
 
-<img src="/jaschiroo/images/sprints/notify/icon-1a.svg"
+<img src="/images/sprints/notify/icon-1a.svg"
      alt="Icon idea 1, variation a"
      style="max-width:90%;height:auto;border:1px solid black;" />
-<img src="/jaschiroo/images/sprints/notify/icon-1b.svg"
+<img src="/images/sprints/notify/icon-1b.svg"
     alt="Icon idea 1, variation b"
     style="max-width:90%;height:auto;border:1px solid black;" />
-<img src="/jaschiroo/images/sprints//notify/icon-2a.svg"
+<img src="/images/sprints//notify/icon-2a.svg"
     alt="Icon idea variation on 2"
     style="max-width:90%;height:auto;border:1px solid black;" />
 
@@ -38,13 +38,13 @@ I really felt that the design was too complicated to be conveyed properly at a s
 
   Armed with icons in all the sizes needed for the app store and phones, it didn't take long until I could see my icon in the wild.
 
-  <img src="/jaschiroo/images/sprints/notify/notify-app.png"
+  <img src="/images/sprints/notify/notify-app.png"
        alt="Notify app icon on a phone"
        style="max-width:50%;height:auto;border:1px solid black;" />
 
   As an additional adventure, I created an image for the splash screen of the app, continuing with the siphonophore theme.
 
-  <img src="/jaschiroo/images/sprints/notify/Splash.svg"
+  <img src="/images/sprints/notify/Splash.svg"
        alt="Notify splash screen"
        style="max-width:50%;height:auto;border:1px solid black;" />
 
@@ -52,22 +52,22 @@ I did find many good tutorials and resources for learning to use Sketch and crea
 
 The basic idea from Param's tutorial is to find a few icons that embody the idea of your startup or go with keywords that describe your startup and start combining them into logos until something interesting comes up. I came up with some initial ideas;
 
-<img src="/jaschiroo/images/sprints/notify/diagonal.png"
+<img src="/images/sprints/notify/diagonal.png"
      alt="Diagonal jellyfish in bell"
      style="max-width:90%;height:auto;border:1px solid black;" />
-<img src="/jaschiroo/images/sprints/notify/vertical.png"
+<img src="/images/sprints/notify/vertical.png"
     alt="Vertical jellyfish in bell"
     style="max-width:90%;height:auto;border:1px solid black;" />
 
   and then I was inspired by the ability to break the jellyfish across the bottom line of the bell and the ensuing combination of the bottom of the notification bell and the bell of the jellyfish, and ended up with some more creative ones.
 
-  <img src="/jaschiroo/images/sprints/notify/in-out.png"
+  <img src="/images/sprints/notify/in-out.png"
        alt="Jellyfish half inside the bell"
        style="max-width:90%;height:auto;border:1px solid black;" />
-  <img src="/jaschiroo/images/sprints/notify/Notification-Jelly.svg"
+  <img src="/images/sprints/notify/Notification-Jelly.svg"
       alt="Notification bell-jellyfish hybrid"
       style="max-width:90%;height:auto;border:1px solid black;" />
-  <img src="/jaschiroo/images/sprints/notify/Tentacles.svg"
+  <img src="/images/sprints/notify/Tentacles.svg"
       alt="Notification bell surrounded by jellyfish tentacles"
       style="max-width:90%;height:auto;border:1px solid black;" />
 

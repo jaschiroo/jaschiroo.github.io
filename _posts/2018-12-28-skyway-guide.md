@@ -11,19 +11,19 @@ But how do you learn your way around the system? If you're as lucky as me, you m
 
 There is an online resource, http://www.skywaymyway.com/, and it's pretty good as far as it goes. It lets you search by name, browse by category and get directions.
 
-<img src="/jaschiroo/images/sprints/skyway/MWSW-search.png"
+<img src="/images/sprints/skyway/MWSW-search.png"
      alt="Skywaymyway Search"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
 Skywaymyway lets you search for a destination by name
 
-<img src="/jaschiroo/images/sprints/skyway/MWSW-browse.png"
+<img src="/images/sprints/skyway/MWSW-browse.png"
      alt="Skywaymyway Browse"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
 You can browse by category,
 
-<img src="/jaschiroo/images/sprints/skyway/MWSW-directions.png"
+<img src="/images/sprints/skyway/MWSW-directions.png"
      alt="Skywaymyway Get Directions"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
@@ -31,13 +31,13 @@ or get directions from one building to another.
 
 However, one of the first quirks I realized was that my mental map of the skyways was completely separate from my mental map of the streets of Minneapolis. Second, the skyways don't have to follow a grid like the streets so it's easy to get turned around inside a building, take the wrong turn in a branching hallway or confidently head the wrong direction.
 
-<img src="/jaschiroo/images/sprints/skyway/large-map.png"
+<img src="/images/sprints/skyway/large-map.png"
      alt="Partial Minneapolis Skyway Map"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
 What I wished for on my first few solo adventures into the tangle of skyways was directions that would help me stay oriented. Building-by-building directions aren't bad, as long as you don't get turned around.
 
-<img src="/jaschiroo/images/sprints/skyway/MWSW-guide.png"
+<img src="/images/sprints/skyway/MWSW-guide.png"
      alt="myWaySkyWay Directions"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
@@ -53,17 +53,17 @@ The goals of most skyway users are fairly simple: find a location, get direction
 
 The goals of this design sprint are to create an app that addresses the three goals and two main user groups. A good user experience in this context is almost invisible: everyone gets to where they wanted to go.
 
-<img src="/jaschiroo/images/sprints/skyway/homescreen.png"
+<img src="/images/sprints/skyway/homescreen.png"
      alt="Skyway Guide App Home Screen"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/skyway/search.png"
+<img src="/images/sprints/skyway/search.png"
      alt="Skyway Guide App Destination Search"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
 The basic idea is to create an app that feels like Google Maps but built specifically for the skyways, and uses landmarks to help users stay oriented. There is some signage in the skyway system that users can rely on, given context. Restaurants and shops make good landmarks for the skyway system because users can easily translate "away from Caribou Coffee" into a direction, without needing to reference cardinal or street directions.
 
-<img src="/jaschiroo/images/sprints/skyway/route.png"
+<img src="/images/sprints/skyway/route.png"
      alt="Skyway Guide App Route"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
@@ -73,27 +73,27 @@ Specific directions can guide the user through the buildings along their path th
 
 These are the direction cards from Campbell Mithun Tower to Wells Fargo Center on the route higlighted in green above.
 
-<img src="/jaschiroo/images/sprints/skyway/guide1.png"
+<img src="/images/sprints/skyway/guide1.png"
      alt="Skyway Guide App Navigation Step 1"
      style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/skyway/guide2.png"
+<img src="/images/sprints/skyway/guide2.png"
      alt="Skyway Guide App Navigation Step 2"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/skyway/guide3.png"
+<img src="/images/sprints/skyway/guide3.png"
     alt="Skyway Guide App Navigation Step 3"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/skyway/guide4.png"
+<img src="/images/sprints/skyway/guide4.png"
     alt="Skyway Guide App Navigation Step 4"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/skyway/guide5.png"
+<img src="/images/sprints/skyway/guide5.png"
     alt="Skyway Guide App Navigation Step 5"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/skyway/guide6.png"
+<img src="/images/sprints/skyway/guide6.png"
     alt="Skyway Guide App Navigation Step 6"
     style="max-width:50%;height:auto;border:1px solid black;" />
 

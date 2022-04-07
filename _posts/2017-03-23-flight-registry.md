@@ -15,19 +15,19 @@ Both of these processes could be made simpler by designing an online flight regi
 
 The operator starts by identifying the location they want to fly in. The base map lets operators search by location or address, and shows nearby airport exclusion zones.
 
-<img src="/jaschiroo/images/sprints/drone/operator-start.png"
+<img src="/images/sprints/drone/operator-start.png"
     alt="Search by address"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
 When an address is entered, the map displays the location as well as any zones that location falls within.
 
-<img src="/jaschiroo/images/sprints/drone/operator-search-results.png"
+<img src="/images/sprints/drone/operator-search-results.png"
     alt="Search results"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
 To correctly identify the flight location, the operator is prompted to outline the area they are intending to fly in.
 
-<img src="/jaschiroo/images/sprints/drone/operator-select-area.png"
+<img src="/images/sprints/drone/operator-select-area.png"
     alt="Select flight area on map"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
@@ -35,23 +35,23 @@ Once they have enclosed an area, they are prompted to register their flight in t
 
 The registration process requires operator contact information and flight details. The flight location is pre-filled and the operator enters their information. This is the information that remains in the FAA database of unmanned aircraft registration, and could be linked to an account allowing operators to add, edit and remove drones from their profile.
 
-<img src="/jaschiroo/images/sprints/drone/operator-contact.png"
+<img src="/images/sprints/drone/operator-contact.png"
     alt="Operator contact information form"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
 The operator enters flight information next, including a description of the drone they intend to operate.
 
-<img src="/jaschiroo/images/sprints/drone/flight-information.png"
+<img src="/images/sprints/drone/flight-information.png"
     alt="Flight information form"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
 The operator then approves a summary of the registration request, and receives a confirmation screen.
 
-<img src="/jaschiroo/images/sprints/drone/flight-summary.png"
+<img src="/images/sprints/drone/flight-summary.png"
     alt="Flight registration summary"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
-<img src="/jaschiroo/images/sprints/drone/confirmation.png"
+<img src="/images/sprints/drone/confirmation.png"
     alt="Confirmation screen"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
@@ -59,7 +59,7 @@ At this point, the relevant local authorities are notifed, in this case the Minn
 
 An open registry of flights would allow operators, ATC and other interested parties to view all upcoming flights.
 
-<img src="/jaschiroo/images/sprints/drone/flight-registry.png"
+<img src="/images/sprints/drone/flight-registry.png"
     alt="Search results"
     style="max-width:50%;height:auto;border:1px solid black;" />
 
