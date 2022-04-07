@@ -27,9 +27,9 @@ In order to create the two sets of diagrams, I tried to take the desired photos 
 
 I chose to create line drawings for this guide. The few existing guides had grayscale example photographs, which deteriorated quickly through repeated photocopying. I needed to create a guide that could be easily copied and shared, and a simplified, non-gender specific line drawing was the easiest way to satisfy those requirements.
 
-<img style="max-width:90%;height:auto"
- src="/assets/photo_protocol/skull_back_FullDiagram.png"
- title="back of skull diagram and example">
+<img src="/jaschiroo/images/photo_protocol/skull_back_FullDiagram.png"
+     alt="back of skull diagram and example"
+     style="max-width:90%;height:auto;" />
 
  I also decided to omit specific directions for distance and angle, and instead let the photographer make their own decisions to create the desired image in the diagram. The camera I used in the diagrams is purposely over-sized to prevent unwanted interpretations of distance, and the lines are there to help the photographer figure out what should be in the photograph regardless of distance.
 
@@ -37,22 +37,22 @@ After completing the majority of the simple diagrams and examples, I ran them by
 
 Some examples from the finished guide:
 
-<img style="max-width:90%;height:auto"
-src="/assets/photo_protocol/arm_back_FullDiagram.png"
-title="full back diagram and example">
+<img src="/jaschiroo/images/photo_protocol/arm_back_FullDiagram.png"
+     alt="full back diagram and example"
+     style="max-width:90%;height:auto;" />
 
 Diagram for photographing the full back
 
-<img style="max-width:90%;height:auto"
-src="/assets/photo_protocol/arm_back_Detail_Upper.png"
-title="upper arm diagram and example">
+<img src="/jaschiroo/images/photo_protocol/arm_back_Detail_Upper.png"
+     alt="upper arm diagram and example"
+     style="max-width:90%;height:auto;" />
 
 Diagram for photographing the back of the upper arm
 
-<img style="max-width:90%;height:auto"
-src="/assets/photo_protocol/elbow_FullDiagram_NEW.png"
-title="elbow diagram and example">
+<img src="/jaschiroo/images/photo_protocol/elbow_FullDiagram_NEW.png"
+     alt="elbow diagram and example"
+     style="max-width:90%;height:auto;" />
 
 Diagram for photographing the elbow
 
-The final product of this project is a published paper in Academic Emergency Medicine, [available here](http://nyceac.com/wp-content/uploads/2012/02/Photography-Protocol-Bloemen-Rosen-et.-al..pdf).
+The final product of this project is a published paper in Academic Emergency Medicine, [available here](https://onlinelibrary.wiley.com/doi/10.1111/acem.12955){:target="_blank"}.
